@@ -23,6 +23,7 @@ Removed
 Fixed
 -----
 - loading of additional training data with the ``SkillSelector``
+- fixed creation of ``RasaNLUHttpInterpreter``
 
 [1.0.7] - 2019-06-06
 ^^^^^^^^^^^^^^^^^^^^
